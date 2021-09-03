@@ -1,16 +1,15 @@
-### Hi there 👋
+# Raízes do Brasil :deciduous_tree:
 
-<!--
-**raizesdobrasil2021/raizesdobrasil2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projeto Integrador desenvolvido no bootcamp da Generation Brasil.
 
-Here are some ideas to get you started:
+### Utilizamos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+
+## Desenvolvido por 
+
+[![Badge](https://img.shields.io/badge/-Felipe-green?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/kendy09)](https://github.com/kendy09)[![Badge](https://img.shields.io/badge/-Jessica-green?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/jehdiscola)](https://github.com/jehdiscola)
+[![Badge](https://img.shields.io/badge/-Milena-green?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/micouti)](https://github.com/micouti)[![Badge](https://img.shields.io/badge/-Wesley-green?style=flat-square&labelColor=black&logo=github&logoColor=white&link=https://github.com/DevWesleys)](https://github.com/DevWesleys)
